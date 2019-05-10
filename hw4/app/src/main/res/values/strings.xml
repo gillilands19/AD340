@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">hw4</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">This is the Home Fragment</string>
+    <string name="home_menu">Home</string>
+    <string name="about_menu">About</string>
+    <string name="about_fragment">This is the About Fragment</string>
+    <string name="settings_label">Click Here!</string>
+    <string name="drawer">A Drawer!</string>
+</resources>
